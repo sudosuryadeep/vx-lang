@@ -1,0 +1,7 @@
+@mem:name => "Suryadeep"
+
+@emit:name
+
+@if:name == "Suryadeep" => {
+    @emit:"VX runtime online"
+}
